@@ -44,7 +44,7 @@ a {
 }
 
 main {
-    min-height: calc(100vh - 3.75rem); /*BAK!!*/
+    min-height: calc(100vh - 3.75rem);
     display: grid;
     place-items: center;
 }
